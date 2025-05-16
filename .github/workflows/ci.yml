@@ -1,8 +1,3 @@
-### .github/workflows/ci.yml
-
-Set up a robust CI pipeline that validates the mathematical certainty your project promises:
-
-```yaml
 name: DaVinci.js CI
 
 on:
